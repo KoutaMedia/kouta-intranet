@@ -30,10 +30,6 @@ class KoutaIntranet {
         flush_rewrite_rules();
     }
     
-    function uninstall() {
-        
-    }
-    
     function tapahtumat_post_type() {
 
         $labels = array(
